@@ -1,0 +1,45 @@
+Win10:
+• date and time
+2020/05/02 周六  8:53:03.80
+• os version 
+Windows 10 专业版 64-bit 
+• hardware information • uptime 
+主机名:           PC-20190629WDWT
+OS 名称:          Microsoft Windows 10 专业版
+OS 版本:          10.0.18363 暂缺 Build 18363
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构件类型:      Multiprocessor Free
+注册的所有人:     微软用户
+注册的组织:       微软中国
+产品 ID:          00330-80000-00000-AA269
+初始安装日期:     2019/10/22, 20:13:37
+系统启动时间:     2020/5/2, 8:07:52
+系统制造商:       LENOVO
+系统型号:         80X3
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 142 Stepping 9 GenuineIntel ~1600 Mhz
+BIOS 版本:        LENOVO 4QCN43WW(V2.07), 2018/3/9
+Windows 目录:     C:\WINDOWS
+系统目录:         C:\WINDOWS\system32
+启动设备:         \Device\HarddiskVolume3
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     8,058 MB
+可用的物理内存:   3,965 MB
+虚拟内存: 最大值: 16,250 MB
+虚拟内存: 可用:   10,923 MB
+虚拟内存: 使用中: 5,327 MB
+页面文件位置:     C:\pagefile.sys
+域:               WorkGroup
+• services information 
+
+• nic information
+
+• route information
+
+• arp information
+
+• information of processes
